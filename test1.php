@@ -19,3 +19,8 @@ public function FunctionName($value='')
 {
   # code...
 }
+
+public function test()
+{
+
+}
